@@ -1,5 +1,7 @@
 ### Hi there, I'm Naz 👋
 
+![alt text](./profile.jpg)
+
 💬 Ask me about:
    - Career Growth
    - UI Engineering
