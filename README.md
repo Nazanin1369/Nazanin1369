@@ -2,8 +2,6 @@
 
 I am a Software Engineering manager at Netflix.
 
-![alt text](./profile.jpg)
-
 💬 Ask me about:
    - Career Growth
    - UI Engineering
