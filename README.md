@@ -1,6 +1,6 @@
 ### Hi there, I'm Naz 👋
 
-I am a Software Engineering manager at Netflix.
+I'm an software engineer who loves coding, mentoring and coaching others and learning new things. You can find me building fun projects on Github 🤖
 
 💬 Ask me about:
    - Career Growth
